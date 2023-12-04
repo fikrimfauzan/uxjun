@@ -61,7 +61,7 @@
    			<div class="col-twelve">
 
 	   			<h5>Hi mate, </h5>
-	   			<h1>I'm Fikri M. Fauzan</h1>
+	   			<h1>I'm Fikri Muhammad Fauzan</h1>
 
 	   			<p class="intro-position">
 	   				<span>UI/UX Engineer</span> 
