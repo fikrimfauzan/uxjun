@@ -478,26 +478,60 @@
 
 	            <!-- modal popups - begin
 	            ============================================================= -->
-	            <div id="modal-01" class="popup-modal slider mfp-hide">	
+				<div id="modal-01" class="popup-modal slider mfp-hide">	
 
-				     	<div class="media">
-				     		<img src="images/portfolio/web-pagii.jpg" alt="" />
-				     	</div>      	
+<div class="media">
+	<img src="images/portfolio/showcase-pagii.jpg" alt="" />
+</div>      	
 
-					   <div class="description-box">
-					      <h4>Pagii</h4>		      
-					      <p>
-							During the pandemic, i worked closely with the founding team of pagii, to create attendance solution while all workers work from home, so the managament still can monitoring the worker’s performance from anywhere.
-						  </p>
+<div class="description-box">
+ <h4>Pagii</h4>
+ <h5>Overview</h5>
+<p>Pagii is an attendance management mobile application conceived in response to the challenges faced by companies during the COVID-19 pandemic, particularly with the abrupt transition to remote work. It sought to simplify attendance tracking for HR teams and employees working remotely while addressing the complexities of managing attendance in a dispersed workforce.
+</p>
+<h5>Problem Statement</h5>
+<p>With the sudden surge in remote work due to COVID-19, traditional methods of attendance tracking became obsolete, leading to difficulties in managing employee attendance effectively. HR teams faced challenges in ensuring accurate attendance records and streamlining communication regarding work schedules and attendance policies.
+</p>
+<h5>Design Goals</h5>
+<ul>
+<li>Remote Work Adaptability: Create an attendance app adaptable to remote work scenarios, allowing employees to mark attendance seamlessly from any location.</li>
+<li>User Accessibility:** Design an intuitive interface accessible to users with varying technical skills and device preferences.</li>
+<li>Efficiency and Reliability:** Ensure the app is efficient, reliable, and capable of providing real-time attendance updates.</li>
+<li>Problem Solving:** Address HR team challenges by simplifying attendance tracking and providing comprehensive reporting capabilities.</li>
+</ul>
 
-					      <div class="categories">UI/UX, Prototyping, Logo, Front-end</div>			               
-					   </div>
+<h5>Key Features</h5>
+<ul>
+<li>Remote Attendance Marking: Allow employees to mark attendance remotely using geolocation or manual entry.</li>
+<li>Real-Time Updates: Instantaneous updates on attendance status for HR managers and employees.</li>
+<li>Customizable Reporting: Generate customizable reports for attendance analytics and HR record-keeping.</li>
+<li>Employee Engagement: Implement features to engage employees, such as schedule alerts and reminders.</li>
+<li>Adaptive UX: A user-centric design ensuring ease of use across various devices and network conditions.</li>
+</ul>
 
-			         <div class="link-box">
-					      <a href="#" class="popup-modal-dismiss">Close</a>
-			         </div>		      
+<h5>UX/UI Design Approach</h5>
+<ul>
+<li>Conducted user research and empathetic interviews to understand the unique needs of remote employees and HR teams.</li>
+<li>Iteratively prototyped and tested designs to ensure a seamless user experience.</li>
+<li>Iteratively prototyped and tested designs to ensure a seamless user experience.</li>
+<li>Employed a clean, minimalist interface with clear navigational elements and intuitive workflows.</li>
+<li>Ensured the app's compatibility with different devices and operating systems.</li>
+</ul>
 
-				   </div> <!-- /modal-01 -->
+<h5>Outcome</h5>
+<p>
+The Pagii attendance mobile app effectively addressed the challenges posed by the sudden shift to remote work during the COVID-19 pandemic. By providing a user-friendly interface, real-time attendance tracking, and comprehensive reporting, it facilitated efficient attendance management for HR teams and improved employee engagement.
+</p>
+
+
+ <div class="categories">UI/UX | Mobile Apps</div>			               
+</div>
+
+<div class="link-box">
+ <a href="#" class="popup-modal-dismiss">Close</a>
+</div>		      
+
+</div> <!-- /modal-01 -->
 
 				   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
